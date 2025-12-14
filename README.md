@@ -12,10 +12,13 @@ This project was built as part of hands-on learning and practical experience wit
 
 * Movie listing with clean and responsive UI
 * Add, edit, and delete movies (CRUD operations)
+* Can edit Cast and Crew only Admin
+* Users can give ratings and also see Average Ratings of Movies
 * Structured data model with entities and relationships
 * Aggregates for data retrieval
 * Responsive Reactive Web screens using OutSystems UI
 * Basic validations and navigation flow
+* Movies can search by Genre, Title, or Plot Summary
 
 ---
 
@@ -31,20 +34,17 @@ This project was built as part of hands-on learning and practical experience wit
 
 ## Application Modules
 
-* Movie List Screen
-* Movie Details Screen
-* Add / Edit Movie Screen
-* Database Entity Management
+Two Modules used -
+1. Core Module/
+├── Database Entity Management
+└── Server Actions
 
----
-
-## How to Import the Application
-
-1. Download the `OSMDB.oap` file from this repository
-2. Open **OutSystems Service Studio**
-3. Go to **Factory → Import Application**
-4. Select the `OSMDB.oap` file
-5. Publish the application
+3. Screen Module/
+├── Movie List Screen
+├── Movie Details Screen
+├── People Screen 
+├── People Details Screen
+└── Add Cast and Crew
 
 ---
 
@@ -80,8 +80,7 @@ This project was created to:
 
 **Vishal Rajak**
 Junior OutSystems Developer
-GitHub: (Add your GitHub profile link here)
-LinkedIn: (Add your LinkedIn profile link here)
+LinkedIn:(https://www.linkedin.com/in/vishal-rajak-505374231/)
 
 ---
 
