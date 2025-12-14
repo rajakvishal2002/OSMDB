@@ -39,7 +39,7 @@ Two Modules used -
 - Database Entity Management
 - Server Actions
 
-3. Screen Module
+2. Screen Module
 - Movie List Screen
 - Movie Details Screen
 - People Screen 
