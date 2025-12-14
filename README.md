@@ -35,11 +35,11 @@ This project was built as part of hands-on learning and practical experience wit
 ## Application Modules
 
 Two Modules used -
-1. Core Module/
+1. Core Module
 ├── Database Entity Management
 └── Server Actions
 
-3. Screen Module/
+3. Screen Module
 ├── Movie List Screen
 ├── Movie Details Screen
 ├── People Screen 
