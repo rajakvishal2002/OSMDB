@@ -61,7 +61,7 @@ OSMDB-OutSystems/
 
 ## Screenshots
 
-Screenshots of the application UI are available in the `screenshots` folder.
+Screenshots of the application UI are available in the `Screenshots` folder.
 
 ---
 
