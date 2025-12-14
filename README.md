@@ -36,15 +36,15 @@ This project was built as part of hands-on learning and practical experience wit
 
 Two Modules used -
 1. Core Module
-├── Database Entity Management
-└── Server Actions
+- Database Entity Management
+- Server Actions
 
 3. Screen Module
-├── Movie List Screen
-├── Movie Details Screen
-├── People Screen 
-├── People Details Screen
-└── Add Cast and Crew
+- Movie List Screen
+- Movie Details Screen
+- People Screen 
+- People Details Screen
+- Add Cast and Crew
 
 ---
 
